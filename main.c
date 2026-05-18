@@ -31,7 +31,7 @@ const char gprsPass[] = "";
 // Konfigurasi MQTT HiveMQ Cloud
 const char* mqtt_server   = "37615810abfc4446a1814ae172ccbd7a.s1.eu.hivemq.cloud";
 const int   mqtt_port     = 8883; // Port TLS
-const char* mqtt_user     = "mareeq6969";
+const char* mqtt_user     = "mareeq";
 const char* mqtt_password = "Zachrain1";
 const char* mqtt_topic    = "mobil_listrik/data"; // Silakan ubah topik sesuai keinginan
 
